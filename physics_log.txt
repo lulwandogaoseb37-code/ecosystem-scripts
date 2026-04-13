@@ -1,0 +1,26 @@
+
+---
+Date: 2026-04-12 23:49
+Subject: Physics
+Topic: newtons laws of motion
+Insight: force is directly proportional to change in momentum
+Your question: does mome tum stay the same if mass changes
+
+AI Follow Up Questions:
+debug mode
+---
+
+---
+Date: 2026-04-13 13:48
+Subject: Physics
+Topic: newtons law of motion
+Insight: Force is directly proportional to acceleration as mass stays constant
+Your question: does momentum change w as mass changes
+
+AI Follow Up Questions:
+1. If force is directly proportional to acceleration when mass is constant, what happens to the acceleration of an object when the force acting on it is changed, but the mass of the object is not constant, such as in a rocket that is expending fuel and therefore decreasing in mass - how would you modify the relationship between force and acceleration to account for this variable mass?
+
+2. Considering the direct proportionality between force and acceleration, how would you explain the phenomenon of objects reaching a terminal velocity when falling through a fluid, such as air or water, where the force of gravity is constant, but the acceleration of the object decreases and eventually becomes zero - what other forces come into play to disrupt this direct proportionality?
+
+3. Given that force is directly proportional to acceleration, what implications does this have for the concept of inertia, which states that an object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force - how does the direct proportionality between force and acceleration inform our understanding of the tendency of objects to resist changes in their motion, and what are the underlying physical mechanisms that give rise to this resistance?
+---
